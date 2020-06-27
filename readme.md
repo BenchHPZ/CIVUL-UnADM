@@ -42,8 +42,8 @@ Todo el material de mi autoria en este repositorio esta bajo la licencia
 [licenciaWTFPL]: http://www.wtfpl.net/
 
 [//]: <> (Archivos locales)
-[final]: /
-[evidencias]: /
-[assets]: /
+[final]: Benjamin_Rivera_U1.pdf
+[evidencias]: evidencias/
+[assets]: assets/
 
 
